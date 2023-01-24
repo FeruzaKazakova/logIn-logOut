@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import './App.css';
 import {Header} from './Components/Header/Header';
 import {LoginForm} from './Components/LoginPage/LoginForm';
 import { Timer } from './Components/Timer/Timer';
